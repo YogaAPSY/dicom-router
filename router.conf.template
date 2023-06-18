@@ -1,0 +1,11 @@
+[satusehat]
+organization_id =
+client_key =
+secret_key =
+url = api-satusehat-dev.dto.kemkes.go.id
+dicom_pathsuffix = /dicom/v1/dicomWeb/studies
+fhir_pathsuffix = /fhir-r4/v1
+tz_name = Asia/Jakarta
+ae_title = DCMROUTER
+dicom_port = 11112
+dcm_dir = /in/
